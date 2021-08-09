@@ -1,2 +1,2 @@
-# testGames1
+# Prototype1
 A repo for test games.
